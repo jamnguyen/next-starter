@@ -1,0 +1,22 @@
+{
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "importOrder": [
+    "^@/(api|components|constants|helpers|hooks|interfaces|pages|store|styles)",
+    "^[./]"
+  ],
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "insertPragma": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "always",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false
+}
